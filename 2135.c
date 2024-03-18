@@ -9,8 +9,7 @@ Criado em 08/09/2020 às 23:13
 #include <string.h>
 #include <math.h>
 
-int main()
-{
+int main() {
     int n1 = 0, n2 = 0, i = 0;
 
     scanf("%d",&n1);
